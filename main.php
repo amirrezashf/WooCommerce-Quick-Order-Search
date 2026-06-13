@@ -5,7 +5,7 @@
  * Description: Quick admin-side WooCommerce order search by order ID or customer phone number.
  * Version: 1.0.0
  * Author: Amirreza Shayesteh Far
- * Author URI: https://github.com/yourusername
+ * Author URI: https://github.com/amirrezashf
  * License: GPL v2 or later
  * Text Domain: woocommerce-quick-order-search
  * Requires Plugins: woocommerce
